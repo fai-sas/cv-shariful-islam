@@ -21,6 +21,10 @@ const Languages = () => {
           <p className='lang'>Bangla</p>
           <p className='italic'>Native or Bilingual Proficiency</p>
         </div>
+        <div>
+          <p className='lang'>Arabic</p>
+          <p className='italic'>Reading & Writing Proficiency</p>
+        </div>
       </section>
     </Wrapper>
   )
