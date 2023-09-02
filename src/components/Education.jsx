@@ -17,7 +17,7 @@ const Education = () => {
         <article className='flex items-center justify-between'>
           <main>
             <h2 className='font-bold text-md'>
-              Master of Business Administration
+              Masters of Business Administration
             </h2>
             <h2 className=' text-md'>Stamford University</h2>
             <div className='flex items-start justify-between max-w-sm italic'>
