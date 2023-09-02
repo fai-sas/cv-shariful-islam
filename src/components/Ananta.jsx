@@ -4,7 +4,7 @@ import AnantaLogo from '../assets/ananta.jpg'
 
 const Ananta = () => {
   return (
-    <Wrapper className='flex justify-between  gap-8 pb-8 lg:gap-72'>
+    <Wrapper className='flex items-center lg:items-start justify-between  gap-8 pb-8 lg:gap-72'>
       <article className=''>
         <h2 className='font-bold pt-6-8'>Sr. General Manager - Commercial</h2>
         <p className='agl'>Ananta Companies (7 Group Concerns)</p>

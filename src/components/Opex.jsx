@@ -3,7 +3,7 @@ import OpexLogo from '../assets/opex-removebg-preview.png'
 
 const Opex = () => {
   return (
-    <Wrapper className='flex justify-between gap-8  lg:gap-60'>
+    <Wrapper className='flex items-center lg:items-start justify-between gap-8  lg:gap-60'>
       <article className=''>
         <h2 className='font-bold pt-6-8'>General Manager - Commercial</h2>
         <p className='agl'>Opex Group </p>
