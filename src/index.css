@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&display=swap');
+
+/*========== Colors ==========*/
+root {
+  --title-color: #0b0a0a;
+  --text-color: #403a3a;
+  --text-color-light: #707070;
+  --container-color: #fafafa;
+  --container-color-alt: #f0efef;
+  --body-color: #fcfcfc;
+}
+
+@layer base {
+  body {
+    font-family: 'Ubuntu', sans-serif;
+  }
+}
+
+body {
+  max-width: 80%;
+  margin: 0 auto;
+  /* font-family: 'Ubuntu', sans-serif;
+  font-family: 'Roboto', sans-serif; */
+}
+
+.title {
+  color: var(--title-color);
+}
+
+/* .print {
+  width: 100vw;
+  height: 100vh;
+}
+
+.sss {
+  width: 800px;
+  height: 600px;
+  margin: auto;
+} */
